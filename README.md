@@ -1,1 +1,1 @@
-# e-commerce-website (using codeignitor,php and javascript)
+Javascript-Complete-Shopping-Cart-Project-Made-with-Vanilla-JS-CSS-HTML--main
